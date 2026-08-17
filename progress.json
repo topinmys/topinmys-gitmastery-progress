@@ -52,5 +52,12 @@
       ""
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786952457.174359,
+    "completed_at": 1786952459.391683,
+    "comments": [],
+    "status": "Completed"
   }
 ]
