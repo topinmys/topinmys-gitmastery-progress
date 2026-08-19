@@ -203,5 +203,14 @@
       "Invalid answers format: missing question(s) or answer(s) or both"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787128246.177283,
+    "completed_at": 1787128252.24537,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
   }
 ]
